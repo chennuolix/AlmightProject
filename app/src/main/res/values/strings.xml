@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlmightyProject</string>
+    <string name="pwd_tip">两次输入的密码不同，请重新输入</string>
+</resources>

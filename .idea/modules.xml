@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlmightyProject.iml" filepath="$PROJECT_DIR$/AlmightyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QMUI/QMUI.iml" filepath="$PROJECT_DIR$/QMUI/QMUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QMUI/arch/arch.iml" filepath="$PROJECT_DIR$/QMUI/arch/arch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commodule/commodule.iml" filepath="$PROJECT_DIR$/commodule/commodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QMUI/compiler/compiler.iml" filepath="$PROJECT_DIR$/QMUI/compiler/compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datamodule/datamodule.iml" filepath="$PROJECT_DIR$/datamodule/datamodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QMUI/lib/lib.iml" filepath="$PROJECT_DIR$/QMUI/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logmodule/logmodule.iml" filepath="$PROJECT_DIR$/logmodule/logmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netmodule/netmodule.iml" filepath="$PROJECT_DIR$/netmodule/netmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QMUI/qmui/qmui.iml" filepath="$PROJECT_DIR$/QMUI/qmui/qmui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QMUI/qmuilint/qmuilint.iml" filepath="$PROJECT_DIR$/QMUI/qmuilint/qmuilint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QMUI/qmuilintrule/qmuilintrule.iml" filepath="$PROJECT_DIR$/QMUI/qmuilintrule/qmuilintrule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usermodule/usermodule.iml" filepath="$PROJECT_DIR$/usermodule/usermodule.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+{
+  "NAME": {
+    "patternString": [
+      "^[\\u4e00-\\u9fa5A-Za-z]+$"
+    ],
+    "maxLength": 20,
+    "tip": "姓名只支持20长度的中文或者英文"
+  },
+  "PWD": {
+    "patternString": [
+      "^[0-9a-zA-Z_]+$"
+    ],
+    "maxLength": 20,
+    "tip": "密码只支持20位数字,字母和下划线组合"
+  }
+}

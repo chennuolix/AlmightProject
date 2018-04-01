@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/QMUI" />
+            <option value="$PROJECT_DIR$/QMUI/arch" />
+            <option value="$PROJECT_DIR$/QMUI/compiler" />
+            <option value="$PROJECT_DIR$/QMUI/lib" />
+            <option value="$PROJECT_DIR$/QMUI/qmui" />
+            <option value="$PROJECT_DIR$/QMUI/qmuilint" />
+            <option value="$PROJECT_DIR$/QMUI/qmuilintrule" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/commodule" />
+            <option value="$PROJECT_DIR$/datamodule" />
+            <option value="$PROJECT_DIR$/logmodule" />
+            <option value="$PROJECT_DIR$/netmodule" />
+            <option value="$PROJECT_DIR$/usermodule" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

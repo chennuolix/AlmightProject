@@ -1,0 +1,2 @@
+include ':app', ':commodule', ':datamodule', ':logmodule', ':netmodule', ':usermodule',
+        ':QMUI:qmui', ':QMUI:lib', ':QMUI:compiler', ':QMUI:qmuilint', ':QMUI:qmuilintrule', ':QMUI:arch'
